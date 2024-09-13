@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I am @cyber_sasa on X
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
 
 <!---
 Cybersasa/Cybersasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
